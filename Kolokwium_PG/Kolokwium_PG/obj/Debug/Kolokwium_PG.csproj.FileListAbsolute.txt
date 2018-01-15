@@ -1,0 +1,6 @@
+D:\Paweł Gnyszka\Kolokwium_PG\Kolokwium_PG\bin\Debug\Kolokwium_PG.exe.config
+D:\Paweł Gnyszka\Kolokwium_PG\Kolokwium_PG\obj\Debug\Kolokwium_PG.csprojResolveAssemblyReference.cache
+D:\Paweł Gnyszka\Kolokwium_PG\Kolokwium_PG\bin\Debug\Kolokwium_PG.exe
+D:\Paweł Gnyszka\Kolokwium_PG\Kolokwium_PG\bin\Debug\Kolokwium_PG.pdb
+D:\Paweł Gnyszka\Kolokwium_PG\Kolokwium_PG\obj\Debug\Kolokwium_PG.exe
+D:\Paweł Gnyszka\Kolokwium_PG\Kolokwium_PG\obj\Debug\Kolokwium_PG.pdb
